@@ -2,7 +2,7 @@
 
 **Demo:** https://micuccivincenzo02.github.io/cato-outbound-engine/
 
-Il prototipo l'ho costruito per candidarmi come GTM Engineer in Cato. È un progetto indipendente e non è affiliato a Cato.
+Il prototipo l'ho costruito per candidarmi come GTM Engineer in Cato. È un progetto indipendente.
 
 ## Il problema
 Un SDR che vende a chi partecipa alle gare pubbliche nella sanità deve capire due cose: **chi chiamare** e **quando**.
